@@ -110,6 +110,7 @@ function App() {
             </Stack>
           </Col>
         </Row>
+        <footer className="text-center text-light mt-3">Created by <a className="link-light" href="https://github.com/SalmandaAK/fcc-drum-machine">SalmandaAK</a></footer>
       </Container>
     </Container>
   )
