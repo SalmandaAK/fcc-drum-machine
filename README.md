@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Demo
 Open [github pages of this project](https://salmandaak.github.io/fcc-drum-machine/) to see the app.
 
 ## Description
